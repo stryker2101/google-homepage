@@ -1,5 +1,5 @@
 
-/*Make it all fit to page*/
+/*Make it all fit to page**/
 
 .flex {
     display: flex;
@@ -38,6 +38,7 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
+        margin-bottom: 20px;
         width: 500px;
         height: 35px;
         font-size: 16px;
@@ -47,7 +48,7 @@
         border-style: solid;
         border-color: rgba(201, 202, 201, 0.973);
         border-radius: 50px;
-        margin-bottom: 20px;
+        
         
     }
 
@@ -70,12 +71,32 @@
 /* Buttons */
 
 .button {
-
+        margin-left: auto;
+        margin-right: auto;
+        background-color:#f8f9fa;
+        width: 130px;
+        height: 35px;
+        font-family: Arial, sans-serif;
+        font-size: 10pt;
+        border-radius: 4px;
+        border: none;
+        margin-right: 20px;
         }
 
 .button:hover {
         box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
         border-color: rgba(223,225,229,0);
+        }
+
+        .account {
+        border-radius: 50%;
+        height: 32px;
+        width: 32px;
+        vertical-align: middle;
+        display: inline;
+        background-image: url(https://avatars3.githubusercontent.com/u/74551206?s=460&v=4);
+        background-position: center;
+        background-repeat: no-repeat;
         }
 
 /*Footer*/
@@ -105,4 +126,5 @@
         padding-top: 20px;
         padding-left: 20px;
         padding-right: 20px;
+        font-family: arial, sans-serif;
         }
