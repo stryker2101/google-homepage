@@ -1,6 +1,8 @@
 
 /*Make it all fit to page**/
-
+@font-face{
+    src: url(https://fonts.google.com/?query=arial)
+}
 .flex {
     display: flex;
     height:  100%;
@@ -117,4 +119,26 @@
         padding-left: 20px;
         padding-right: 20px;
         font-family: arial, sans-serif;
+        }
+
+.account {
+        display: inline-block;
+        vertical-align: middle;
+        height: 32px;
+        width: 32px;
+        font-family: arial, sans-serif;
+        font-size: 20px;
+        text-align: center;
+        background: rgb(29, 28, 28);
+        color: white;
+        text-decoration: none;
+        border-radius: 50px;
+        margin-top: -1px;
+        margin-bottom: -1px;
+        margin-left: -1px;
+        margin-right: -1px;
+         }
+
+.account :visited{
+        color: white;
         }
