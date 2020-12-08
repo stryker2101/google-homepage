@@ -88,16 +88,6 @@
         border-color: rgba(223,225,229,0);
         }
 
-        .account {
-        border-radius: 50%;
-        height: 32px;
-        width: 32px;
-        vertical-align: middle;
-        display: inline;
-        background-image: url(https://avatars3.githubusercontent.com/u/74551206?s=460&v=4);
-        background-position: center;
-        background-repeat: no-repeat;
-        }
 
 /*Footer*/
 

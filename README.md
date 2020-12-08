@@ -11,3 +11,7 @@ I think the more of these projects I do, the easier it will come. Doing FCC inbe
 Changed the HTML of the "Search by Voice" button to match that of the "Google Search" & "I'm Feeling Lucky!" button. All elements of the homepage for HTML are now in, just to start CSS.
 
 05/12/20 @ 12:48 - Got everything except the "Google Search" and "I'm feeling Lucky!" buttons in position with CSS. A lot to take in, with lot's of googling, dev tools and others codes to try and figure where I was going wrong. It's slowly coming together though.
+
+08/12/20 - Removed the button for the account link, as apparently it's JS that links a button to a different website or page. Turned account back to a li with the correct class and removed the account class completely. Think it's finished. 
+
+Overall, the project is a brilliant way to start a journey into web dev. I cheated myself by "peaking" at others code, but before using it, googled on why that person used that to get an understanding of it. I think when I'm alot more comfortable I will return to this project to see what I'd do different compared to how I've done it now. 
