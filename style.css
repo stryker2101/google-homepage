@@ -1,8 +1,6 @@
 
 /*Make it all fit to page**/
-@font-face{
-    src: url(https://fonts.google.com/?query=arial)
-}
+
 .flex {
     display: flex;
     height:  100%;
